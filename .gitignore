@@ -2,9 +2,12 @@
 __pycache__/
 *.py[codz]
 *$py.class
+research/
 
 # C extensions
 *.so
+Data/*
+chroma_db/
 
 # Distribution / packaging
 .Python
